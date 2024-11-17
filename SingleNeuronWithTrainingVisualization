@@ -1,3 +1,5 @@
+# This Version contains additions for visualization, using matplotlib (please install matplotlib.)
+
 import math
 import numpy as np
 import matplotlib
