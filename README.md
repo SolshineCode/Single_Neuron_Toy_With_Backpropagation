@@ -34,9 +34,10 @@ Trains a single neuron using labeled input data.
 
 ### **Usage**
 
+To run the program after downloading the repo (change "NeuronWithBackprop" to instead run the version with visualizations):
 ```python
 import numpy as np
-from neuronWithBackprop import train_neuron
+from NeuronWithBackprop import train_neuron
 
 # Example data
 features = np.array([[1.0, 2.0], [2.0, 1.0], [-1.0, -2.0]])
