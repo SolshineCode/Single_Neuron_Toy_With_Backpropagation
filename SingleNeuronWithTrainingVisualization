@@ -3,7 +3,7 @@
 import math
 import numpy as np
 import matplotlib
-matplotlib.use('TkAgg')  # Use Tkinter for rendering
+matplotlib.use('TkAgg')  # Using Tkinter for rendering
 import matplotlib.pyplot as plt
 
 
