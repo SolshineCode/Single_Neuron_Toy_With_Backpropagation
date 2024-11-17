@@ -7,6 +7,7 @@ This script implements a simple neuron model using NumPy. It demonstrates how a 
 - **Backpropagation**: Updates weights and bias based on Mean Squared Error (MSE).
 - **Custom Parameters**: Allows adjustment of learning rate, epochs, and initial parameters.
 - **Test Cases**: Includes examples to validate the model's behavior.
+- **Training Visualization**: Includes a version of the script where matplotlib (must be installed) is used to show visualizations of the training process, further illustrating the concept for mech. intrep. purposes.
 
 ---
 
