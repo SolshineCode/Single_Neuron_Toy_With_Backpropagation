@@ -1,6 +1,6 @@
 ## **Single Neuron Toy Model with Backpropagation**
 
-This script implements a simple neuron model using NumPy. It demonstrates how a neuron learns through forward propagation, error computation, and backpropagation. It’s an accessible way to explore neural networks and mechanistic interpretability without complex frameworks.
+This script implements a simple neuron model using NumPy. It demonstrates how a neuron learns through forward propagation, error computation, and backpropagation. It’s an accessible way to explore neural networks and mechanistic interpretability without complex frameworks. (Code is handwritten, some code comments along with most of the documentation are LLM generated.)
 
 ### **Features**
 - **Forward Propagation**: Calculates neuron output using weights, bias, and a sigmoid activation function.
